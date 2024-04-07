@@ -1,1 +1,1 @@
-Use Case for Linear Regression Model
+Use Case for Decision Tree
